@@ -96,3 +96,21 @@ footer {
   color: #647084;
   font-size: 12px;
 }
+
+.qualification-group {
+  margin: 20px 0;
+  padding: 18px;
+  border: 1px solid #e2e8f0;
+  border-radius: 12px;
+  background-color: #ffffff;
+}
+
+.qualification-group h3 {
+  margin-top: 0;
+  color: #334155;
+}
+
+.qualification-group li {
+  margin: 8px 0;
+  line-height: 1.6;
+}
